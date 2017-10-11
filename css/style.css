@@ -4,4 +4,5 @@ font-family: garamond, serif;}
 p {color: gray;
 }
 h1, h2 {color: white;
+  opacity: .8;
 }
