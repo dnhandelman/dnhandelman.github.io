@@ -1,7 +1,7 @@
-html {background-color: black;
-text-align: center;
-font-family: garamond, serif;}
-p {color: gray;
-}
-h1, h2 {color: white;
-}
+html     {background-color: black;
+        text-align: center;
+        font-family: Futura, sans-serif;}
+p       {color: gray;
+        }
+h1, h2  {color: white;
+        font-weight: 500;}
