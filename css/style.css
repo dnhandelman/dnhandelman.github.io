@@ -1,7 +1,7 @@
-html     {background-color: black;
+html     {background-color: white;
         text-align: center;
-        font-family: Futura, sans-serif;}
-p       {color: gray;
+        font-family: 'GillSans-Light', 'Gill Sans', 'Trebuchet MS', sans-serif;}
+p       {color: black;
         }
 h1, h2  {color: white;
-        font-weight: 500;}
+        font-weight: 400;}
