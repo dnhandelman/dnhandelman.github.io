@@ -1,0 +1,7 @@
+html     {background-color: white;
+        text-align: center;
+        font-family: 'GillSans-Light', 'Gill Sans', 'Trebuchet MS', sans-serif;}
+p       {color: black;
+        }
+h1, h2  {color: white;
+        font-weight: 400;}
