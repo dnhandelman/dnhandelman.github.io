@@ -27,8 +27,11 @@ text-transform: none;
 }
 
 h2 {
+  color: rgb(0, 0, 0);
+  font-family: 'GillSans-Light', 'Gill Sans', 'Trebuchet MS', sans-serif;
   font-size: 45px;
   line-height: 60px;
 font-weight: 250;
+text-align: left;
 
 }
